@@ -1,0 +1,14 @@
+Java HotSpot(TM) 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2022-03-28 20:48:37.818 INFO  (main) [   ] o.e.j.u.log Logging initialized @1843ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-03-28 20:48:37.960 WARN  (main) [   ] o.e.j.s.AbstractConnector Ignoring deprecated socket close linger time
+2022-03-28 20:48:37.974 INFO  (main) [   ] o.e.j.s.Server jetty-9.4.14.v20181114; built: 2018-11-14T21:20:31.478Z; git: c4550056e785fb5665914545889f21dc136ad9e6; jvm 13+33
+2022-03-28 20:48:37.997 INFO  (main) [   ] o.e.j.d.p.ScanningAppProvider Deployment monitor [file:///Users/shreyagupta/Documents/USC%20Classes/Spring%202022/CSCI-572/HW4/solr-7.7.3/server/contexts/] at interval 0
+2022-03-28 20:48:38.300 INFO  (main) [   ] o.e.j.w.StandardDescriptorProcessor NO JSP Support for /solr, did not find org.apache.jasper.servlet.JspServlet
+2022-03-28 20:48:38.310 INFO  (main) [   ] o.e.j.s.session DefaultSessionIdManager workerName=node0
+2022-03-28 20:48:38.311 INFO  (main) [   ] o.e.j.s.session No SessionScavenger set, using defaults
+2022-03-28 20:48:38.312 INFO  (main) [   ] o.e.j.s.session node0 Scavenging every 600000ms
+2022-03-28 20:48:38.400 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter Using logger factory org.apache.logging.slf4j.Log4jLoggerFactory
+2022-03-28 20:48:38.408 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter  ___      _       Welcome to Apache Solr™ version 7.7.3
+2022-03-28 20:48:38.408 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter / __| ___| |_ _   Starting in standalone mode on port 8983
+2022-03-28 20:48:38.409 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter \__ \/ _ \ | '_|  Install dir: /Users/shreyagupta/Documents/USC Classes/Spring 2022/CSCI-572/HW4/solr-7.7.3
+2022-03-28 20:48:38.409 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter |___/\___/_|_|    Start time: 2022-03-28T20:48:38.409456Z
